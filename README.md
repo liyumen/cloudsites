@@ -1,1 +1,3 @@
 # cloudsites
+
+support docker
